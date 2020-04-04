@@ -140,7 +140,7 @@ this_thread::sleep_for(chrono::milliseconds(2000));
   cout<<ll<<endl;
   string lll=to_string(ll);
 
-  string doo("C:\\Users\\Siddharth\\Desktop\\suas final\\testids");
+  string doo("C:\\Users\\Desktop\\testids");
   doo.append(lll);
   
   string dooo(".jpg");
