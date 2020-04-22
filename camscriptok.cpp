@@ -84,7 +84,7 @@ for (int i = 0; i < count; i++)
 }
 else
 {
-cout<<" ye bhi thik hai";	
+cout<<"format set";	
 }
     
 }
